@@ -15,4 +15,7 @@ public class Main {
     public void newTest2(){
         System.out.println("Neww1Neww1Neww1");
     }
+    public void newTest3(){
+        System.out.println("Neww1Neww1Neww1");
+    }
 }
