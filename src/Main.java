@@ -7,4 +7,12 @@ public class Main {
     public void newTest(){
         System.out.println("Neww1");
     }
+
+    public void newTest1(){
+        System.out.println("Neww1Neww1Neww1");
+    }
+
+    public void newTest2(){
+        System.out.println("Neww1Neww1Neww1");
+    }
 }
